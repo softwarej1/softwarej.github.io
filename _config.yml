@@ -16,8 +16,13 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "ko-KR"
+<<<<<<< HEAD
 title                    : "Swift Project"
 title_separator          : "|"
+=======
+title                    : "software Project"
+title_separator          : "-"
+>>>>>>> fcb281cf4d1c48363915302443bf6f7e20ff04b7
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "softwarej1"
 description              : ""
@@ -104,9 +109,15 @@ analytics:
 
 # Site Author
 author:
+<<<<<<< HEAD
   name             : "sangjun"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "인덕대생 과제 블로그"
+=======
+  name             : "Softwarej"
+  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "나의 소프트웨어 개발 블로그입니다"
+>>>>>>> fcb281cf4d1c48363915302443bf6f7e20ff04b7
   location         : "South Korea"
   email            :
   links:
