@@ -16,7 +16,6 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "ko-KR"
-<<<<<<< HEAD
 title                    : "Swift Project"
 title_separator          : "|"
 =======
