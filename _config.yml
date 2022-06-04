@@ -18,7 +18,6 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "ko-KR"
 title                    : "Swift Project"
 title_separator          : "|"
-=======
 title                    : "software Project"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
