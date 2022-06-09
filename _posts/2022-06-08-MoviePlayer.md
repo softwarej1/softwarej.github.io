@@ -14,13 +14,6 @@ title:  "14장 스위프트 과제"
 
 
 ```swift
-/
-//  ViewController.swift
-//  MoviePlayer
-//
-//  Created by 203a18 on 2022/05/27.
-//
-
 import UIKit
 import AVKit
 
@@ -28,7 +21,7 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
+       
     }
 
     @IBAction func btnplayInternalMovie(_ sender: UIButton) {
