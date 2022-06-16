@@ -11,6 +11,10 @@ title:  "14장 스위프트 과제"
 
 **[공지사항]**[스위프트 과제 다운로드 주소 이동.](https://github.com/softwarej1/Swift_source_code/)
 
+{: .notice--info}
+
+**[공지사항]**[깃허브 블로그 주소 이동.](https://github.com/softwarej1/softwarej1.github.io)
+
 이번에는 아이폰 앱에서 비디오 파일을 방법에 대해서 다루어 보도록 하겠습니다. 
 
 ## AVPlayerViewController란?
